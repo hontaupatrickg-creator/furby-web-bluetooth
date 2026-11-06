@@ -1,9 +1,9 @@
 [
     { 
-        "file": "context.dlc", 
-        "title": "Context Logo",
+        "file": "tu012770.dlc", 
+        "title": "DJ Persoality",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "DJ ", "action": [75,0,2,3] }
         ]
     },
     { 
@@ -23,9 +23,9 @@
     },
     {
         "file": "tu002560.dlc", 
-        "title": "pirate",
+        "title": "Pirate Personality",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,1,3] }
+            { "title": "Pirate ", "action": [75,0,1,3] }
         ]
     }
 ]
