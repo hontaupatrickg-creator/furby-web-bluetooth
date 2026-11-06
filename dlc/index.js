@@ -1,9 +1,23 @@
 [
     { 
-        "file": "tu012770.dlc", 
-        "title": "DJ Persoality",
+        "file": "tu11840.dlc", 
+        "title": "1 testing (don't test) ",
         "buttons": [
-            { "title": "DJ ", "action": [75,0,1,3] }
+            { "title": "testing ", "action": [75,0,4,4] }
+        ]
+    },
+    { 
+        "file": "tu010600.dlc", 
+        "title": "2 testing (don't test) ",
+        "buttons": [
+            { "title": "testing ", "action": [75,0,4,4] }
+        ]
+    },
+    { 
+        "file": "tr002590.dlc", 
+        "title": "3 testing (don't test) ",
+        "buttons": [
+            { "title": "testing ", "action": [75,0,4,4] }
         ]
     },
     { 
