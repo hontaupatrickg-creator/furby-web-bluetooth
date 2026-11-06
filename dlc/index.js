@@ -1,21 +1,21 @@
 [
     { 
-        "file": "tu11840.dlc", 
-        "title": "1 testing (don't test) ",
+        "file": ".dlc", 
+        "title": " ",
         "buttons": [
             { "title": "testing ", "action": [75,0,4,4] }
         ]
     },
     { 
-        "file": "tu010600.dlc", 
-        "title": "2 testing (don't test) ",
+        "file": "dlc.", 
+        "title": " ",
         "buttons": [
             { "title": "testing ", "action": [75,0,4,4] }
         ]
     },
     { 
-        "file": "tr002590.dlc", 
-        "title": "3 testing (don't test) ",
+        "file": ".dlc", 
+        "title": " ",
         "buttons": [
             { "title": "testing ", "action": [75,0,4,4] }
         ]
