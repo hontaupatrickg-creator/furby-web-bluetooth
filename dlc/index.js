@@ -3,7 +3,7 @@
         "file": "tu012770.dlc", 
         "title": "DJ Persoality",
         "buttons": [
-            { "title": "DJ ", "action": [75,0,2,3] }
+            { "title": "DJ ", "action": [75,0,1,3] }
         ]
     },
     { 
