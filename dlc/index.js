@@ -14,7 +14,7 @@
         ]
     },
     { 
-        "file": "dj_personality.dlc", 
+        "file": "dj_personality_FIXED.dlc", 
         "title": "DJ personality ",
         "buttons": [
             { "title": "DJ ", "action": [75,0,1,3] }
