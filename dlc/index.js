@@ -10,14 +10,14 @@
         "file": "context.dlc", 
         "title": "context logo ",
         "buttons": [
-            { "title": "testing ", "action": [75,0,4,4] }
+            { "title": "Logo ", "action": [75,0,4,4] }
         ]
     },
     { 
         "file": "dj_personality.dlc", 
         "title": "DJ personality ",
         "buttons": [
-            { "title": "DJ ", "action": [75,0,4,4] }
+            { "title": "DJ ", "action": [75,0,1,3] }
         ]
     },
     { 
