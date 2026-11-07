@@ -14,10 +14,10 @@
         ]
     },
     { 
-        "file": ".dlc", 
-        "title": " ",
+        "file": "dj_personality.dlc", 
+        "title": "DJ personality ",
         "buttons": [
-            { "title": "testing ", "action": [75,0,4,4] }
+            { "title": "DJ ", "action": [75,0,4,4] }
         ]
     },
     { 
