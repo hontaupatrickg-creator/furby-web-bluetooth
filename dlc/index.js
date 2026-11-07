@@ -1,14 +1,14 @@
 [
     { 
-        "file": ".dlc", 
-        "title": " ",
+        "file": "chilli.dlc", 
+        "title": "Chilli ",
         "buttons": [
-            { "title": "testing ", "action": [75,0,4,4] }
+            { "title": "Chilli ", "action": [75,0,4,4] }
         ]
     },
     { 
-        "file": "dlc.", 
-        "title": " ",
+        "file": "context.dlc", 
+        "title": "context logo ",
         "buttons": [
             { "title": "testing ", "action": [75,0,4,4] }
         ]
