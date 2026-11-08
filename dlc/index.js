@@ -15,9 +15,9 @@
     },
     { 
         "file": "DJ_FURBY.dlc", 
-        "title": "DJ personality ",
+        "title": "DJ personality (progress) ",
         "buttons": [
-            { "title": "DJ ", "action": [76,0,1,3] }
+            { "title": "DJ (progress) ", "action": [76,0,1,3] }
         ]
     },
     { 
