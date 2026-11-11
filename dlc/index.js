@@ -14,7 +14,7 @@
         ]
     },
     { 
-        "file": "djfurb.dlc", 
+        "file": "DJfurb.dlc", 
         "title": "DJ personality (progress) ",
         "buttons": [
             { "title": "DJ (progress) ", "action": [75,0,4,4] }
