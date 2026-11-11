@@ -14,10 +14,10 @@
         ]
     },
     { 
-        "file": "DJCONNECT.dlc", 
+        "file": "djfurb.dlc", 
         "title": "DJ personality (progress) ",
         "buttons": [
-            { "title": "DJ (progress) ", "action": [76,0,1,3] }
+            { "title": "DJ (progress) ", "action": [75,0,4,4] }
         ]
     },
     { 
