@@ -14,10 +14,10 @@
         ]
     },
     { 
-        "file": "DJfurb.dlc", 
-        "title": "DJ personality (progress) ",
+        "file": "djcon.dlc", 
+        "title": "DJ personality (don't try) ",
         "buttons": [
-            { "title": "DJ (progress) ", "action": [75,0,4,4] }
+            { "title": "DJ (don't try) ", "action": [75,0,4,4] }
         ]
     },
     { 
