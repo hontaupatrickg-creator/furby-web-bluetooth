@@ -29,7 +29,7 @@
         ]
     },
     {
-        "file": "nosmile.dlc", 
+        "file": "", 
         "title": "no smile",
         "buttons": [
             { "title": "fakesmile ", "action": [75,0,4,4] }
