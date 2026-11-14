@@ -29,10 +29,10 @@
         ]
     },
     {
-        "file": "noimg2.dlc", 
-        "title": "Audio only",
+        "file": "nosmile.dlc", 
+        "title": "no smile",
         "buttons": [
-            { "title": "Audio test ", "action": [75,0,4,4] }
+            { "title": "fakesmile ", "action": [75,0,4,4] }
         ]
     },
     {
